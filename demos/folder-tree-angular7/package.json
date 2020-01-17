@@ -18,7 +18,7 @@
 		"@angular/platform-browser": "7.2.13",
 		"@angular/platform-browser-dynamic": "7.2.13",
 		"@angular/router": "7.2.13",
-		"@ngtools/webpack": "7.3.8",
+		"@ngtools/webpack": "8.3.23",
 		"@types/lodash": "4.14.123",
 		"@types/node": "11.13.4",
 		"clean-webpack-plugin": "2.0.1",
