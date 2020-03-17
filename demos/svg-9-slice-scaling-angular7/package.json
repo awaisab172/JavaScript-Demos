@@ -32,7 +32,7 @@
 		"rxjs": "6.4.0",
 		"typescript": "^3.2.4",
 		"webpack": "4.29.1",
-		"webpack-cli": "3.2.3",
+		"webpack-cli": "3.3.5",
 		"zone.js": "0.8.29"
 	}
 }
