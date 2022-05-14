@@ -24,7 +24,7 @@
 		"less": "3.8.1",
 		"less-loader": "4.1.0",
 		"lodash": "4.17.10",
-		"npm": "^6.0.0",
+		"npm": "^7.21.0",
 		"postcss": "7.0.2",
 		"postcss-loader": "3.0.0",
 		"postcss-preset-env": "5.3.0",
@@ -32,7 +32,7 @@
 		"rxjs": "6.2.2",
 		"ts-loader": "3.5.0",
 		"typescript": "2.9.2",
-		"webpack": "3.11.0",
+		"webpack": "4.0.0",
 		"zone.js": "0.8.26"
 	}
 }
