@@ -25,10 +25,10 @@
 		"less": "3.0.2",
 		"less-loader": "4.1.0",
 		"lodash": "4.17.10",
-		"npm": "^6.0.0",
+		"npm": "^6.10.1",
 		"raw-loader": "0.5.1",
 		"rxjs": "6.1.0",
-		"ts-loader": "3.5.0",
+		"ts-loader": "6.0.0",
 		"typescript": "2.8.3",
 		"webpack": "3.11.0",
 		"zone.js": "0.8.26"
