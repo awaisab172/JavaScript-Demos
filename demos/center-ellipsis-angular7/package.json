@@ -11,7 +11,7 @@
 		"@angular/cli": "7.3.9",
 		"@angular/common": "7.2.15",
 		"@angular/compiler": "7.2.15",
-		"@angular/compiler-cli": "7.2.15",
+		"@angular/compiler-cli": "18.2.8",
 		"@angular/core": "7.2.15",
 		"@angular/forms": "7.2.15",
 		"@angular/http": "7.2.15",
@@ -28,7 +28,7 @@
 		"raw-loader": "1.0.0",
 		"rxjs": "6.4.0",
 		"typescript": "3.2.4",
-		"webpack": "4.31.0",
+		"webpack": "5.0.0",
 		"webpack-cli": "3.3.2",
 		"zone.js": "0.9.1"
 	}
